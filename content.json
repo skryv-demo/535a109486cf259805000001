@@ -1,1 +1,46 @@
-{}
+{
+    "Front Page": {
+        "Contract information": {
+            "Date of recruitment": "2014-04-15T22:00:00.000Z"
+        },
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {}
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {},
+            "Number of (successful) years after secondary school:": 2,
+            "Certificate and/or diploma obtained": "",
+            "Date": "2014-04-15T22:00:00.000Z"
+        },
+        "Languages": {
+            "English": {
+                "Spoken": 1
+            },
+            "French": {},
+            "German": {},
+            "Other(s)": {
+                "0": []
+            }
+        },
+        "Professional experience": {},
+        "CV number": 12345678,
+        "Date of birth": "2013-12-10T23:00:00.000Z"
+    },
+    "Training Page": {
+        "Training": {
+            "0": []
+        }
+    },
+    "Software Expertise Page": {
+        "Software expertise": {
+            "0": []
+        }
+    },
+    "Professional Experience Page": {
+        "Project experience": {
+            "0": []
+        }
+    }
+}
